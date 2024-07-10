@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b848394a.css",
+    "main.js": "/static/js/main.38ef09a3.js",
+    "static/media/pexels-asadphoto-1268871.jpg": "/static/media/pexels-asadphoto-1268871.20ec38156cbcf4ac2071.jpg",
+    "static/media/plant tanks.png": "/static/media/plant tanks.e3eb277f7e219d5401ff.png",
+    "static/media/STP.png": "/static/media/STP.c16d8b027883bfb143ca.png",
+    "static/media/ETP.png": "/static/media/ETP.e50696c63732ccab3030.png",
+    "static/media/water-softner.jpeg": "/static/media/water-softner.22a2e3a4d70d8b11e136.jpeg",
+    "static/media/logo.png": "/static/media/logo.7cf8c63efa31815fd670.png",
+    "static/media/refresh.png": "/static/media/refresh.7a24bee634a1d2e539be.png",
+    "static/media/RO-plant.jpeg": "/static/media/RO-plant.8ab2a67fe8b510a95df4.jpeg",
+    "static/media/water-drop.png": "/static/media/water-drop.f3c9b08cc91e1ecf1a3c.png",
+    "static/media/gear.png": "/static/media/gear.521b79d3ef558608d46b.png",
+    "static/media/phone.png": "/static/media/phone.5a14d9dd71f768819b0d.png",
+    "static/media/case.png": "/static/media/case.30f06a42825dc84d3053.png",
+    "static/media/pool test kit.jpeg": "/static/media/pool test kit.36d5b531b6ea582f56b7.jpeg",
+    "static/media/tools.png": "/static/media/tools.5f4a70d16236621cc7c7.png",
+    "static/media/godavarihospital.jpg": "/static/media/godavarihospital.9589d5e1de87560cbbbc.jpg",
+    "static/media/instagram.png": "/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/index.html",
+    "main.b848394a.css.map": "/static/css/main.b848394a.css.map",
+    "main.38ef09a3.js.map": "/static/js/main.38ef09a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b848394a.css",
+    "static/js/main.38ef09a3.js"
+  ]
+}
