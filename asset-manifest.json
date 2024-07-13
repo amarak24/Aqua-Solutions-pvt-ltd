@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.711f7af4.css",
+    "main.css": "/static/css/main.19ebebb3.css",
     "main.js": "/static/js/main.f182ceb3.js",
     "static/media/pexels-asadphoto-1268871.jpg": "/static/media/pexels-asadphoto-1268871.20ec38156cbcf4ac2071.jpg",
     "static/media/plant tanks.png": "/static/media/plant tanks.e3eb277f7e219d5401ff.png",
@@ -20,11 +20,11 @@
     "static/media/godavarihospital.jpg": "/static/media/godavarihospital.9589d5e1de87560cbbbc.jpg",
     "static/media/instagram.png": "/static/media/instagram.0bcd1dcb7d853c327af7.png",
     "index.html": "/index.html",
-    "main.711f7af4.css.map": "/static/css/main.711f7af4.css.map",
+    "main.19ebebb3.css.map": "/static/css/main.19ebebb3.css.map",
     "main.f182ceb3.js.map": "/static/js/main.f182ceb3.js.map"
   },
   "entrypoints": [
-    "static/css/main.711f7af4.css",
+    "static/css/main.19ebebb3.css",
     "static/js/main.f182ceb3.js"
   ]
 }
